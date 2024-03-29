@@ -1,6 +1,8 @@
 <div align="center">
   [Introduction](https://youtu.be/NDmpacO6BY8)
 </div>
+![Introduction](https://youtu.be/NDmpacO6BY8)
+
 ### I'm obsessed with crafting innovative solutions that shatter web development norms. Right now, I'm on a deep dive into the world of AI/ML and religiously hitting the LeetCode grindstone.
 
 -  I’m currently working on [Frame Nexus](https://github.com/MuhammadHamza00/video-nexus).
