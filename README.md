@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/MuhammadHamza00/MuhammadHamza00/blob/main/intro.mp4" align="center" style="width: 100%" />
+![Introduction](intro.mp4)
 </div>  
   
 
