@@ -1,5 +1,5 @@
 <div align="center">
-  [Introduction]([https://www.youtube.com/watch?v=your_video_id](https://youtu.be/NDmpacO6BY8)) </div>
+  [Introduction]([https://youtu.be/NDmpacO6BY8](https://youtu.be/NDmpacO6BY8))
 </div>
 ### I'm obsessed with crafting innovative solutions that shatter web development norms. Right now, I'm on a deep dive into the world of AI/ML and religiously hitting the LeetCode grindstone.
 
