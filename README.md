@@ -1,6 +1,6 @@
 <div align="center">
   <video width="400" controls>
-    <source src="path/to/your/video.mp4" type="video/mp4">
+    <source src="https://youtu.be/NDmpacO6BY8" type="video/mp4">
   </video>
 </div>
 
@@ -74,10 +74,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamza00&hide_border=true&layout=compact" align="center" />
-</div>
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadHamza00&show_icons=true&count_private=true&hide_border=true" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHamza00&show_icons=true&count_private=true&hide_border=true" align="left" />
 </div>
 
 ## Connect with me
