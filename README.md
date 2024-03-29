@@ -1,7 +1,12 @@
 <div align="center">
-  [Introduction](https://youtu.be/NDmpacO6BY8)
 </div>
+```
+**Home Screen**
+
+![Frame Nexus Demo](intro.mp4)
 [Introduction](https://youtu.be/NDmpacO6BY8)
+
+**Project Introduction**
 
 ### I'm obsessed with crafting innovative solutions that shatter web development norms. Right now, I'm on a deep dive into the world of AI/ML and religiously hitting the LeetCode grindstone.
 
