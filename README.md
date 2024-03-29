@@ -1,12 +1,6 @@
 <div align="center">
-  <video width="400" controls>
-    <source src="https://youtu.be/NDmpacO6BY8" type="video/mp4">
-  </video>
+  [Introduction]([https://www.youtube.com/watch?v=your_video_id](https://youtu.be/NDmpacO6BY8)) </div>
 </div>
-
-<div align="center">
-  [Introduction](https://www.youtube.com/watch?v=your_video_id) </div>
-
 ### I'm obsessed with crafting innovative solutions that shatter web development norms. Right now, I'm on a deep dive into the world of AI/ML and religiously hitting the LeetCode grindstone.
 
 -  I’m currently working on [Frame Nexus](https://github.com/MuhammadHamza00/video-nexus).
