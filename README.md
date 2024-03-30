@@ -1,4 +1,5 @@
-![Introduction](githubintro.png)
+
+![Frame Nexus Demo](githubintro.png)
 
 ### I am passionately committed to pioneering inventive solutions that challenge conventional paradigms in web development. Presently, I am immersing myself in the realm of AI/ML, diligently honing my skills through rigorous practice on platforms like LeetCode.
 
