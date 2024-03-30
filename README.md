@@ -1,11 +1,6 @@
-<div align="center">
-</div>
-```
-**Home Screen**
+[Introduction](githubintro.png)
 
-[Introduction](intro.mp4)
-
-### I'm obsessed with crafting innovative solutions that shatter web development norms. Right now, I'm on a deep dive into the world of AI/ML and religiously hitting the LeetCode grindstone.
+### I am passionately committed to pioneering inventive solutions that challenge conventional paradigms in web development. Presently, I am immersing myself in the realm of AI/ML, diligently honing my skills through rigorous practice on platforms like LeetCode.
 
 -  I’m currently working on [Frame Nexus](https://github.com/MuhammadHamza00/video-nexus).
 -  Actively participating in coding competitions & hackathons.
@@ -71,8 +66,8 @@
 ## Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamza00&hide_border=true&layout=compact" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHamza00&show_icons=true&count_private=true&hide_border=true" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamza00&hide_border=true&layout=compact" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHamza00&show_icons=true&count_private=true&hide_border=true" align="right" />
 </div>
 
 ## Connect with me
