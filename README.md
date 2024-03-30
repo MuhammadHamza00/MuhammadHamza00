@@ -1,4 +1,4 @@
-[Introduction](githubintro.png)
+![Introduction](githubintro.png)
 
 ### I am passionately committed to pioneering inventive solutions that challenge conventional paradigms in web development. Presently, I am immersing myself in the realm of AI/ML, diligently honing my skills through rigorous practice on platforms like LeetCode.
 
@@ -66,8 +66,8 @@
 ## Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamza00&hide_border=true&layout=compact" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHamza00&show_icons=true&count_private=true&hide_border=true" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamza00&hide_border=true&layout=compact" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHamza00&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
 
 ## Connect with me
