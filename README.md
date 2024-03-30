@@ -1,5 +1,4 @@
-
-![Frame Nexus Demo](githubintro.png)
+[Frame Nexus Demo](githubintro.png)
 
 ### I am passionately committed to pioneering inventive solutions that challenge conventional paradigms in web development. Presently, I am immersing myself in the realm of AI/ML, diligently honing my skills through rigorous practice on platforms like LeetCode.
 
@@ -7,7 +6,7 @@
 -  Actively participating in coding competitions & hackathons.
 - ❓ I do DSA problems on Leetcode in C++ and Python.
 -  How to contact me? Ping at mhamza191703@gmail.com.
-- ⚡ Fun fact: Mostly errors in my code caused by forgetting a semicolon(;)
+- ⚡ Fun fact: Most errors in my code are caused by forgetting a semicolon(;)
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
