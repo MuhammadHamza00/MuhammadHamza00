@@ -106,6 +106,3 @@ ammadHamza00&hide_border=true&layout=compact" align="center" />
     <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" style="margin-bottom: 5px;" />
   </a>
 </div>
-```
-
-This enhanced version combines your original content with the additional details and formatting you provided. It's structured to highlight your skills, experience, and contact information effectively.
