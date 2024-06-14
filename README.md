@@ -1,6 +1,6 @@
-![Frame Nexus Demo](githubinto.png)
+![Frame Nexus Demo](banner.png)
 
-### I am passionately committed to pioneering inventive solutions that challenge conventional paradigms in web development. Presently, I am immersing myself in the realm of AI/ML, diligently honing my skills through rigorous practice on platforms like LeetCode.
+
 
 -  I’m currently working on [Frame Nexus](https://github.com/MuhammadHamza00/video-nexus).
 -  Actively participating in coding competitions & hackathons.
@@ -68,9 +68,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamza00&hide_border=true&layout=compact" align="center" />
   </div>
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHamza00&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
 
 ## Connect with me
 
