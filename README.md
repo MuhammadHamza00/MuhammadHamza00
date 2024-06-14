@@ -1,14 +1,34 @@
 ![Frame Nexus Demo](banner.png)
 
+# Muhammad Hamza
 
+👋 Hi there! I'm Hamza, a passionate software developer with a focus on Python backend development and WordPress development.
 
--  I’m currently working on [Frame Nexus](https://github.com/MuhammadHamza00/video-nexus).
--  Actively participating in coding competitions & hackathons.
-- ❓ I do DSA problems on Leetcode in C++ and Python.
--  How to contact me? Ping at mhamza191703@gmail.com.
-- ⚡ Fun fact: Most errors in my code are caused by forgetting a semicolon(;)
+## 🌐 Academic Background
 
-## My Skill Set
+- Pursuing a Bachelor's degree in Computer Science from the University of Sargodha, Main Campus.
+
+## 💼 Professional Experience
+
+- Software Engineering Intern at Sorric, Sargodha.
+- WordPress Developer at Mythicsdma.
+
+## 🏆 Achievements
+
+- Winner at the WPSprint Hackathon.
+- Team Lead at the Gemini Ultra Hackathon.
+
+## 👨‍🏫 Teaching and Leadership
+
+- Volunteered to teach Python, Web Development, and DSA at Youth Skills Initiative, helping students from Nigeria.
+
+## 🚀 Continuous Learning
+
+- Currently exploring NLP and Chatbot Development.
+- Enthusiastic about open-source projects and eager to participate in coding competitions.
+
+## 🛠 My Skill Set
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -62,27 +82,30 @@
 
 <br/>  
 
-
-## Github Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamza00&hide_border=true&layout=compact" align="center" />
-  </div>
-
-## Connect with me
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/mdothamza" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://github.com/MuhammadHamza00" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/https://twitter.com/hamzaonX" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.kaggle.com/https://www.kaggle.com/muhammadhamza00" target="_blank">
-    <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muh
+
+ammadHamza00&hide_border=true&layout=compact" align="center" />
 </div>
 
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/mdothamza" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/MuhammadHamza00" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://twitter.com/hamzaonX" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.kaggle.com/muhammadhamza00" target="_blank">
+    <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" style="margin-bottom: 5px;" />
+  </a>
+</div>
+```
+
+This enhanced version combines your original content with the additional details and formatting you provided. It's structured to highlight your skills, experience, and contact information effectively.
